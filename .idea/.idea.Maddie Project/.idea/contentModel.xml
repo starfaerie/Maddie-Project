@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\astri\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\astri\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Maddie Project.-21495337.00" t="ExcludeRecursive" />
+    <e p="C:\Users\astri\Documents\GitHub\Maddie Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="For Maddie" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Render Features" t="Include">
+              <e p="Blit.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="BlitPropertyDrawer.cs" t="Include" />
+              </e>
+              <e p="SetMainLightMatrix.cs" t="Include" />
+            </e>
+            <e p="spin.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="SubShaders" t="Include">
+              <e p="customLighting.hlsl" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Maddie Project.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
